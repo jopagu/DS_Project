@@ -1,5 +1,6 @@
 
 #include <iostream>
+#include <math.h>
 using namespace std;
 
 float myFabs(float x){
