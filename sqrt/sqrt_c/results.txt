@@ -1,0 +1,5 @@
+SDC count     = 811
+Crash count   = 998
+Benign count  = 8133
+Hang count    = 58
+Total Fi runs = 10000
